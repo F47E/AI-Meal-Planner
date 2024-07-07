@@ -23,8 +23,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/meal-planner.git
-   cd meal-planner
+   git clone https://github.com/F47E/ai-meal-planner.git
+   cd ai-meal-planner
    ```
 
 2. Install the required packages:
